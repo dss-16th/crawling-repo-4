@@ -41,7 +41,7 @@
 
 ### 2-2. 데이터베이스 저장
 - 작성한 모듈 파일 저장
-- Scrapy 프레임 워크 내 pipeline을 활용하여 MongoDB 내 적재
+- Scrapy 프레임 워크 내 pipeline.py 를 활용하여 MongoDB 내 적재
 - 하루에 한번 주기로 크론탭을 설정하여 정해진 시간에 업데이트 되어진 크롤링 된 데이터를 저장 
 
 ### 2-3 Kakao API 
