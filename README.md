@@ -18,14 +18,14 @@
 - 네이버 통합 검색 뉴스 메뉴(기간 옵션 : 1일)
   - 키워드 별 크롤링 진행
       - 코로나 수도권 확진 : https://search.naver.com/search.naver?where=news&query=코로나%20수도권%20확진&pd=4
-      - 코로나 국내 백신 : https://search.naver.com/search.naver?where=news&query=코로나%20국내%20백신&pd=4
+      - 코로나 국내 백신(https://search.naver.com/search.naver?where=news&query=코로나%20국내%20백신&pd=4)
       - 코로나 사회적거리두기 : https://search.naver.com/search.naver?where=news&query=코로나%20사회적거리두기&pd=4
       - 코로나 정부 재난지원금 : https://search.naver.com/search.naver?where=news&query=코로나%20정부%20재난지원금&pd=4 
 
 ### 1-3 팀원 / 역할
-- ![이지홍](https://github.com/jihong7107)
+- [이지홍](https://github.com/jihong7107)
   - 코로나 확진자, 거리두기, 백신 현황 데이터 크롤링, mongodb 관리, 카카오 api를 통한 메세지 전송 기능 구현, 메세지 내 웹 서버 링크 연동, 리드미 작성 
-- ![이경무](https://github.com/rudan916)
+- [이경무](https://github.com/rudan916)
   - 백신, 사회적거리두기, 재난지원금, 확진 이슈 키워드별 검색결과 데이터 크롤링, mongodb 관리, Flask를 통한 웹 서버 배포, DB와 웹 연동, 리드미 작성
 
 ## 2. PROCESS
