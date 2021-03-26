@@ -9,18 +9,16 @@
 - 본 프로젝트의 목적은 scrapy를 활용한 크롤링 방법을 익히고 수집 된 데이터베이스를 MongoDB를 활용하여 정제 및 관리하기 위함에 있습니다.
 - /Scrapy 프레임워크 활용한 크롤링 방법과 수집한 데이터를 데이터베이스(MongoDB)에 적재하고 카카오톡 메시지 발송과 웹 페이지 구성, 수집 데이터 출력의 활용 방법을 학습합니다.
 
-### 1-2 수집 데이터
-- 코로나바이러스감염증-19(COVID-19) 
-    - http://ncov.mohw.go.kr/
-- 코로나19 예방 접종
-    - https://ncv.kdca.go.kr/
+### 1-2 수집 데이터(링크)
+- [코로나바이러스감염증-19(COVID-19)](http://ncov.mohw.go.kr/)
+- [코로나19 예방 접종](https://ncv.kdca.go.kr/)
   
 - 네이버 통합 검색 뉴스 메뉴(기간 옵션 : 1일)
   - 키워드 별 크롤링 진행
-      - 코로나 수도권 확진 : https://search.naver.com/search.naver?where=news&query=코로나%20수도권%20확진&pd=4
+      - [코로나 수도권 확진](https://search.naver.com/search.naver?where=news&query=코로나%20수도권%20확진&pd=4)
       - [코로나 국내 백신](https://search.naver.com/search.naver?where=news&query=코로나%20국내%20백신&pd=4)
-      - 코로나 사회적거리두기 : https://search.naver.com/search.naver?where=news&query=코로나%20사회적거리두기&pd=4
-      - 코로나 정부 재난지원금 : https://search.naver.com/search.naver?where=news&query=코로나%20정부%20재난지원금&pd=4 
+      - [코로나 사회적거리두기](https://search.naver.com/search.naver?where=news&query=코로나%20사회적거리두기&pd=4)
+      - [코로나 정부 재난지원금](https://search.naver.com/search.naver?where=news&query=코로나%20정부%20재난지원금&pd=4)
 
 ### 1-3 팀원 / 역할
 - [이지홍](https://github.com/jihong7107)
