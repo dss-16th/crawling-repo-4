@@ -50,7 +50,7 @@
 
 ## 3. CONCLUSION
 
-### 3-1 진행 결과
+### 3-1 실행 결과
 <img width="1149" alt="스크린샷 2021-03-19 오후 2 18 53" src="https://user-images.githubusercontent.com/78460413/111734876-4e138d00-88be-11eb-8f07-ea5e457f4004.png">
 
 
