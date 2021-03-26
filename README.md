@@ -56,7 +56,7 @@
 ### 2-4 Flask
 - Flask 모듈 작성
     - kword.py : 키워드별 웹페이지 경로 지정, MongoDB에 적재된 데이터를 추출
-    - html.index(html, juquery 작성) : html 코드 작성으로 웹 페이지 형태 구성, jquery를 작성하여 버튼 클릭시 kword.py와 연동하여 데이터 출력
+    - html.index(html, juquery 작성) : html 코드 작성으로 웹 페이지 형태 구성, jquery를 작성하여 버튼 클릭시 데이터 출력
 
 
 
