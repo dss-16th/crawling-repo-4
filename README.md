@@ -52,6 +52,9 @@
 - Shell script 파일 생성
 
 ### 2-4 Flask
+- Flask 모듈 작성
+    - kword.py : MongoDB에 적재된 데이터를 추출, 키워드별 데이터 정렬
+    - html.index(html, juquery 작성) : html 코드 작성(웹페이지 형태구성), jquery 작성 kword.py(flask 프레임워크)와 연동
 
 
 
