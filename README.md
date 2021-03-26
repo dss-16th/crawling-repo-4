@@ -46,12 +46,15 @@
 ### 2-4 Flask
 
 
-### 3. 진행 결과
+
+
+## 3. CONCLUSION
+
+### 3-1 진행 결과
 <img width="1149" alt="스크린샷 2021-03-19 오후 2 18 53" src="https://user-images.githubusercontent.com/78460413/111734876-4e138d00-88be-11eb-8f07-ea5e457f4004.png">
 
 
-### 3. 진행상황, 계획 및 현재 진행 중 이슈 
-#### 3-1 진행상황
+진행상황
 - 웹 데이터 수집 완료
 - mongodb 데이터 적재 완료
 - corntab 설정 확인
